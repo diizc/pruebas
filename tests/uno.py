@@ -1,5 +1,9 @@
-x = 0
+def contar():
 
-while x < 10:
-    print(x)
-    x += 1
+    x = 0
+
+    while x < 10:
+        print(x)
+        x += 1
+    
+contar()
